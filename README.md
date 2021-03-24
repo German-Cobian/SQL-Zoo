@@ -6,7 +6,7 @@
 
 This project contains the answers to the SQL_Zoo tests that are useful as practice cases in how to query SQL databases.
 
-![screenshot![screenshot](https://user-images.githubusercontent.com/68709712/112390974-5ef44200-8cb4-11eb-9641-203dc6e26204.png)
+![screenshot![screenshot](https://user-images.githubusercontent.com/68709712/112390974-5ef44200-8cb4-11eb-9641-203dc6e26204.png)]
 
 
 ## Testing
