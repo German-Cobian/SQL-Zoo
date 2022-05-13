@@ -4,21 +4,23 @@
 
 # SQL-Zoo
 
-This project contains the answers to the SQL_Zoo tests that are useful as practice cases in how to query SQL databases.
+This project contains the answers to the [SQL_Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) tests that are useful as practice cases in how to query SQL databases.
 
-![screenshot![screenshot](https://user-images.githubusercontent.com/68709712/112390974-5ef44200-8cb4-11eb-9641-203dc6e26204.png)]
+![SQL Zoo answer](/app/assets/images/Sql-zoo-answer.png?raw=true "SQL Zoo answer")
 
 
 ## Testing
 
-* With SQLZoo
-To test this SQL project you need only go to the SQLZoo link, copy and paste the answers in the test for each tutorial and behold the results.
+* To test this SQL project you need only go to the [SQL Zoo link](https://sqlzoo.net/wiki/SQL_Tutorial)
+* Copy the answers pertinent to the specific test you are working on in the tutorial (they are grouped by specific test and the test suite they belong-to in a like manner to the way they are arranged in the tutorial)
+* Past the answer in the box supplied for that purpose in the corresponding test
+* Click `Submit SQL` and behold the results
 
 
 ## Built With
 
-- SQL
-- Visual Studio Code
+* SQL
+* Visual Studio Code
 
 
 ## Authors
@@ -42,9 +44,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse
+* [SQL_Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://github.com/German-Cobian/SQL-Zoo/blob/main/LICENSE) licensed.
