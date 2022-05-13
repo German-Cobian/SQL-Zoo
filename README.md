@@ -6,7 +6,7 @@
 
 This project contains the answers to the [SQL_Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) tests that are useful as practice cases in how to query SQL databases.
 
-![SQL Zoo answer](/app/assets/images/Sql-zoo-answer.png?raw=true "SQL Zoo answer")
+![SQL Zoo answer](/assets/Sql-zoo-answer.png?raw=true "SQL Zoo answer")
 
 
 ## Testing
