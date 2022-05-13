@@ -28,7 +28,7 @@ This project contains the answers to the [SQL_Zoo](https://sqlzoo.net/wiki/SQL_T
 👤 **German Cobian**
 
 - GitHub: [@German-Cobian](https://github.com/German-Cobian)
-- Twitter: [@GermanCobian3](https://twitter.com/GermanCobian3)
+- Twitter: [@GermanCobian2](https://twitter.com/GermanCobian2)
 - LinkedIn: [@german-cobian](https://www.linkedin.com/in/german-cobian/)
 
 
